@@ -10,3 +10,20 @@
     font-weight: 700;
 
 }
+
+/* hero image carousel*/
+.c-item {
+height:720px;
+}
+
+.c-img {
+height:100%;
+object-fit:cover;
+filter:contrast(1.1);
+}
+
+.carousel-caption {
+    postion: absolute;
+    top: 35%;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000008;
+}
