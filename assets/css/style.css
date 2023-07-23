@@ -3,3 +3,10 @@
     width: 45px;
     height: 45px;
 }
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+
+}
