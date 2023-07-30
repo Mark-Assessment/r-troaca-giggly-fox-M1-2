@@ -51,7 +51,7 @@ body {
     margin-bottom: 38px;
     margin-top: 32px;
     text-align: center;
-    border: 4px solid rgb(255, 115, 0);
+    border: 4px solid #ff5500;
     position: relative;
 
 
@@ -91,4 +91,50 @@ body {
     padding-bottom: 40px;
     color: #ffffff;
     font-weight: 600;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    background-color: #FF5500;
+    border-color: #000000;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    color: #FFFFFF;
+    background-color: #D14600;
+    border-color: #000000;
+}
+
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    background-image: none;
+}
+
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+    background-color: #FF5500;
+    border-color: #000000;
+}
+
+.btn-primary .badge {
+    color: #FF5500;
+    background-color: #FFFFFF;
 }
