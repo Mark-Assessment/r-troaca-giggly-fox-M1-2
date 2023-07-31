@@ -1,7 +1,8 @@
 /* body */
 
 body {
-    background-color: rgba(1, 1, 7, 0.795)
+    background-color: rgba(1, 1, 7, 0.795);
+    overflow-x:hidden;
 }
 
 
@@ -142,3 +143,4 @@ fieldset[disabled] .btn-primary.active {
     color: #FF5500;
     background-color: #FFFFFF;
 }
+
