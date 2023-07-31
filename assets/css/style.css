@@ -148,3 +148,68 @@ fieldset[disabled] .btn-primary.active {
     color: #FF5500;
     background-color: #FFFFFF;
 }
+
+/* newsletter signup form */
+
+.newsletter-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 50vh;
+}
+
+.card {
+    display: block;
+    position: relative;
+    width: 480px;
+    max-width: 90%;
+    min-height: 12em;
+    background-color:#212529;
+    color: #ffffff;
+    padding: 1em 2em 1em;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+.card form {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+.card form input {
+    display: flex;
+    width: 80%;
+}
+
+.card form input.email {
+    border: 0px;
+    margin-bottom: 1em;
+    padding: .3em 1em;
+    text-align: center;
+    font-size: 24px;
+    line-height: 30px;
+    outline: none;
+    border-radius: 5px;
+    background-color: #FFffff;
+}
+
+.card form button {
+    border: 0px transparent;
+    padding: 1em 1.2em;
+    border-radius: 5px;
+    background-color: #FF5500;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: .4s all ease-in-out;
+    cursor: pointer;
+}
+
+.card form button:hover {
+    background-color: #D14600;
+}
