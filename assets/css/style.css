@@ -165,7 +165,7 @@ fieldset[disabled] .btn-primary.active {
     width: 480px;
     max-width: 90%;
     min-height: 12em;
-    background-color:#212529;
+    background-color: #212529;
     color: #ffffff;
     padding: 1em 2em 1em;
     border-radius: 5px;
@@ -212,4 +212,53 @@ fieldset[disabled] .btn-primary.active {
 
 .card form button:hover {
     background-color: #D14600;
+}
+
+
+/* Thank you page style */
+
+.thankyoupage {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background-color: #212529;
+    padding: 10px 0px 50px;
+}
+
+.thankyoupage h1 {
+    font-size: 5vw;
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+    padding: 50px 10px 10px;
+}
+
+.thankyoupage p {
+    font-size: 3vw;
+    font-weight: 600;
+    text-align: center;
+    color: #ffffff;
+    padding: 15px 15px 15px;
+}
+
+.thankyoupage a {
+    font: 35px;
+    text-align: center;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight:bolder;
+    width: 250px;
+    background: #FF5500;
+    border-radius: 5px;
+    margin: 50px auto 0px;
+    padding: 20px 20px 20px;
+    transition: .4s all ease-in-out;
+    cursor: pointer;
+}
+
+.thankyoupage a:hover {
+    background-color: #D14600;
+ 
 }
