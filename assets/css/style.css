@@ -248,7 +248,7 @@ fieldset[disabled] .btn-primary.active {
     display: block;
     text-decoration: none;
     text-transform: uppercase;
-    font-weight:bolder;
+    font-weight: bolder;
     width: 250px;
     background: #FF5500;
     border-radius: 5px;
@@ -260,5 +260,16 @@ fieldset[disabled] .btn-primary.active {
 
 .thankyoupage a:hover {
     background-color: #D14600;
- 
+
+}
+
+
+/* comedians page title */
+
+.main-title {
+    padding: 100px 100px;
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-shadow: 0 0 3px #000000;
 }
