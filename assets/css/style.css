@@ -293,6 +293,7 @@ fieldset[disabled] .btn-primary.active {
     font-size: 25px;
     color: #FF5500;
     font-weight: bolder;
+    padding-top:5px;
     padding-bottom: 20px;
     text-align: center;
 }
