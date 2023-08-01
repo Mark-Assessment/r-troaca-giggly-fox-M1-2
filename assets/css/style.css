@@ -101,13 +101,13 @@ body {
     font-weight: 600;
 }
 
+/* upcoming shows button */
 .btn-primary {
     color: #FFFFFF;
     background-color: #FF5500;
     border-color: #000000;
 }
 
-/* upcoming shows button */
 
 .btn-primary:hover,
 .btn-primary:focus,
@@ -123,6 +123,7 @@ body {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     background-image: none;
+    text-decoration: none;
 }
 
 .btn-primary.disabled,
@@ -148,7 +149,6 @@ fieldset[disabled] .btn-primary.active {
     color: #FF5500;
     background-color: #FFFFFF;
 }
-
 /* newsletter signup form */
 
 .newsletter-container {
@@ -277,7 +277,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .comedian-container {
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 
 .comedian-image {
