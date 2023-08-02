@@ -307,3 +307,19 @@ fieldset[disabled] .btn-primary.active {
     padding-right: 30px;
 
 }
+
+/* go to top button */
+.gotopbtn {
+    position:fixed;
+    width:50px;
+    height:50px;
+    background:#FF5500;
+    bottom:40px;
+    right:20px;
+    text-decoration: none;
+    text-align:center;
+    line-height: 50px;
+    color:white;
+    font-size:20px;
+
+}
