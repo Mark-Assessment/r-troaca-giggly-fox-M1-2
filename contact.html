@@ -16,7 +16,7 @@
 
     <link href="assets/css/style.css" rel="stylesheet">
 
-    <title>Thank you for subscribing!</title>
+    <title>Contact</title>
 </head>
 
 <body>
@@ -86,19 +86,32 @@
         </button>
     </div>
 
+    <!--Main title-->
+    <div class="main-title text-white">
+        <p>Contact</p>
+    </div>
 
-    <section>
-        <div class="thankyoupage">
-            <h1>Thank you for subscribing!</h1>
-            <p>You are awesome! Cheers for filling that out and choosing to keep up with our updates. Keep being you, you
-               absolute legend!
-            </p>
-            <a href="index.html">
-                Back to home
-            </a>
+    
+
+
+    <!--Newsletter signup form-->
+    <div class="newsletter-container">
+        <div class="card">
+            <p>Don't miss our updates, subscribe to get notified when shows are added!</p>
+            <form action="thankyoupage.html" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+                class="validate" novalidate>
+                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your email" required>
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" tabindex="-1">
+                </div>
+                <div class="clear"></div>
+                <button name="subscribe" id="mc-embedded-subscribe" class="button" aria-label="Submit"
+                    type="submit">Subscribe me</button>
+            </form>
         </div>
-    </section>
+    </div>
 
+    <!--Go to top button-->
+    <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i></a>
 
     <!--Footer-->
     <footer class="bg-dark text-center text-white">
@@ -106,21 +119,21 @@
             <div class="mb-4">
                 <a class="btn btn-outline-light btn-floating m-1" href="http://facebook.com" target="_blank"
                     role="button"><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-outline-light btn-floating m-1" href="http://twitter.com" target="_blank"
-                    role="button"><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="http://twitter.com" target="_blank" role="button"><i
+                        class="fab fa-twitter"></i></a>
                 <a class="btn btn-outline-light btn-floating m-1" href="http://instagram.com" target="_blank"
                     role="button"><i class="fa-brands fa-instagram"></i></a>
             </div>
         </div>
-
+    
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
             © 2023 Copyright:
             <a class="text-white" href="index.html">TheGigglyFox.com</a>
         </div>
-
+    
     </footer>
-
-
-</body>
-
-</html>
+    
+    
+    </body>
+    
+    </html>
