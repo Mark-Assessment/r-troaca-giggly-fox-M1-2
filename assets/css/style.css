@@ -29,7 +29,7 @@ body {
 /* hero image carousel*/
 
 .c-item {
-    height: 720px;
+    height: 500px;
 }
 
 .c-img {
@@ -86,12 +86,14 @@ body {
     letter-spacing: 4px;
     margin-bottom: 10px;
     text-align: center;
-    font-size: xxx-large;
+    font-size: xx-large;
     font-weight: 600;
+
 }
 
 .upcoming-shows {
     padding-bottom: 100px;
+    
 }
 
 .showname {
