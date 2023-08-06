@@ -1,39 +1,154 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **The Giggly Fox**
+## **Site Overview**
 
-Welcome,
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+![Am I responsive screenshot]
+## Table of contents:
+- [**The Giggly Fox**](#the-giggly-fox)
+  - [**Site Overview**](#site-overview)
+  - [Table of contents:](#table-of-contents)
+  - [**Planning stage**](#planning-stage)
+    - [**Target Audiences:**](#target-audiences)
+    - [**User Stories:**](#user-stories)
+    - [**Site Aims:**](#site-aims)
+    - [**How Will This Be Achieved:**](#how-will-this-be-achieved)
+    - [**Wireframes:**](#wireframes)
+    - [**Color Scheme:**](#color-scheme)
+  - [**Current Features Common to all pages**](#current-features-common-to-all-pages)
+    - [**Header Element**](#header-element)
+      - [*Title:*](#title)
+      - [*Logo:*](#logo)
+      - [*Navigation Bar:*](#navigation-bar)
+    - [**Hero Images**](#hero-images)
+  - [**Footer**](#footer)
+  - [**Individual Page Content features**](#individual-page-content-features)
+    - [**Home Page Content:**](#home-page-content)
+    - [**Shows Page Content:**](#shows-page-content)
+    - [**Comedians Page Content:**](#comedians-page-content)
+    - [**Contact Page Content**](#contact-page-content)
+    - [**Contact Redirect Page Content**](#contact-redirect-page-content)
+    - [**Thank You for Subscribing Page Content**](#thank-you-for-subscribing-page-content)
+    - [**404 Error Page Content**](#404-error-page-content)
+  - [**Future-Enhancements**](#future-enhancements)
+  - [**Testing Phase**](#testing-phase)
+  - [**Deployment**](#deployment)
+  - [**Credits**](#credits)
+    - [**Honorable mentions**](#honorable-mentions)
+    - [**General reference:**](#general-reference)
+    - [**Content:**](#content)
+    - [**Media:**](#media)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+## **Planning stage**
+### **Target Audiences:**
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### **User Stories:**
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### **Site Aims:**
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
 
-`http_server`
+### **How Will This Be Achieved:**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### **Wireframes:**
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+* Mobile Wireframes:
+    * [Home page]
+    * [Shows page]
+    * [Comedians page]
+    * [Contact page]
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+* Desktop wireframes:
+    * [Home page]
+    * [Shows page]
+    * [Comedians page]
+    * [Contact page]
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
+### **Color Scheme:**
 
-Happy coding!
+
+## **Current Features Common to all pages**
+###  **Header Element**
+
+
+#### *Title:*
+![Page title]
+
+
+#### *Logo:*
+
+
+        ![Mobile header]
+
+
+        ![Desktop header]
+
+#### *Navigation Bar:*
+* The navigation bar appears on all pages (including the form feedback page). 
+
+![Navigation bar]
+***
+### **Hero Images**
+
+
+## **Footer**
+
+
+![Page footer]
+
+## **Individual Page Content features**
+### **Home Page Content:**
+
+
+
+### **Shows Page Content:**
+
+### **Comedians Page Content:**
+
+
+### **Contact Page Content**
+
+
+
+
+### **Contact Redirect Page Content**
+* I created this page to mimic the effect of actually submitting a form. 
+
+### **Thank You for Subscribing Page Content**
+
+### **404 Error Page Content**
+
+
+## **Future-Enhancements**
+
+
+
+***
+## **Testing Phase**
+
+***
+## **Deployment**
+I deployed the page on GitHub pages via the following procedure: -
+
+1. From the project's [repository](https://github.com/razvantr10/the-giggly-fox), go to the **Settings** tab.
+2. From the left-hand menu, select the **Pages** tab.
+3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
+4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
+
+You  can find the live site via the following URL - [The Giggly Fox live webpage](https://razvantr10.github.io/the-giggly-fox/index.html)
+***
+## **Credits**
+### **Honorable mentions**
+
+
+
+### **General reference:**
+
+
+### **Content:**
+
+  
+### **Media:**
