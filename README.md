@@ -100,23 +100,26 @@ When deciding the color scheme I wanted a dark and gritty main body with accents
 ## **Current Features Common to all pages**
 
 ### **Header Element**
-
+The header element sticks to the top of the page as the user scrolls up and down the website. Originally I had designed the page with a "return to top" link at the bottom of the page. The navbar contains the following features:
 #### *Title:*
 
-![Page title]
+![Page title](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/title.jpg?raw=true)
+* The title represents the name of the club as well as giving an indication to what the logo is.
+* Serves as a navigation link to the home page as well.
 
 #### *Logo:*
 
-        ![Mobile header]
-
-
-        ![Desktop header]
+![Logo](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/gigglyfoxlogo.webp?raw=true)
 
 #### *Navigation Bar:*
 
 * The navigation bar appears on all pages (including the form feedback page).
+* Contains links to the Home, Shows, Comedians, and Contact page for quick navigation around the website. 
+* The navbar also has a hover effect, which highlights the link that the cursor is hovering on top of.
+* On mobile the navbar transforms into a togglable hamburger button.
 
-![Navigation bar]
+![Navigation bar desktop](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/navbar-desktop.jpg?raw=true)
+![Navigation bar mobile](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/navbar-mobile.jpg?raw=true)
 ***
 
 ### **Hero Images**
