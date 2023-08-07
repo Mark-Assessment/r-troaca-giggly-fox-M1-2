@@ -6,7 +6,7 @@ The Giggly Fox is Leicester's premier destination for laughter and a good time! 
 
 Established with a passion for spreading joy and merriment, The Giggly Fox has been a staple in Leicester's entertainment scene for over a decade. We take pride in curating an eclectic lineup of comedic talent, bringing together the finest stand-up comedians, improv artists, and sketch groups from near and far. Whether you're a local resident or a visitor to our vibrant city, our doors are wide open, ready to welcome you into a world of unbridled laughter.
 
-![Website responsiveness](https://github.com/razvantr10/the-giggly-fox/blob/main/images/screenshots/amiresponsive.jpg)
+![Website responsiveness](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/amiresponsive.jpg?raw=true)
 
 ## Table of contents
 
@@ -48,35 +48,35 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 
 ### **Target Audiences:**
 
-*Users looking to see a comedy show.
-*Users who want to see what comedians are performing at The Giggly Fox.
-*Users that want to get in contact with the comedy club and make a booking.
+* Users looking to see a comedy show.
+* Users who want to see what comedians are performing at The Giggly Fox.
+* Users that want to get in contact with the comedy club and make a booking.
 
 ### **User Stories:**
 
-*As a user I want to see the subject matter of the page.
-*As a user I want to be able to easily navigate the page to find what I require in a quickly manner.
-*As a user I want to find the dates and times of show that I am interested in, without too much trouble.
-*As a user I want to be able to find what comedians are performing at this venue.
-*As a user I want to be able to contact the club easily.
+* As a user I want to see the subject matter of the page.
+* As a user I want to be able to easily navigate the page to find what I require in a quickly manner.<br>
+* As a user I want to find the dates and times of show that I am interested in, without too much trouble.<br>
+* As a user I want to be able to find what comedians are performing at this venue.<br>
+* As a user I want to be able to contact the club easily.
 
 ### **Site Aims:**
 
-*To inform the user what the website is about.
-*To insure the user that the website is fluid and can be navigated at ease every step of their experience.
-*To inform the user on the show dates and entrance times.
-*To inform the user on the comedians that perform at The Giggly Fox and provide extra details about them.
-*To provide a manner of contacting the venue.
-*To provide the ability to subscribe to a newsletter that will inform the user on any shows added to our show list and their respective lineups.
+* To inform the user what the website is about.
+* To insure the user that the website is fluid and can be navigated at ease every step of their experience.
+* To inform the user on the show dates and entrance times.
+* To inform the user on the comedians that perform at The Giggly Fox and provide extra details about them.
+* To provide a manner of contacting the venue.
+* To provide the ability to subscribe to a newsletter that will inform the user on any shows added to our show list and their respective lineups.
 
 ### **How Will This Be Achieved:**
 
-*The landing page of the website provides the user a description of the comedy club and how it became one of the top comedy clubs in the country.
-*The site provides clear information on the club's
-   *Upcoming shows
-   *Comedians
-*The site provides a method of contacting the club and offers as well as the address of the club and the phone number where the club can be contacted, in the Contact section of the website.
-*The site provides the user a method of subscribing to a newsletter, that will be sent twice a month and inform the user with the new shows that have been added and their dates and entrance times, as well as the comedians that will perform on the day of the show.
+* The landing page of the website provides the user a description of the comedy club and how it became one of the top comedy clubs in the country.
+* The site provides clear information on the club's
+   * Upcoming shows
+   * Comedians
+* The site provides a method of contacting the club and offers as well as the address of the club and the phone number where the club can be contacted, in the Contact section of the website.
+* The site provides the user a method of subscribing to a newsletter, that will be sent twice a month and inform the user with the new shows that have been added and their dates and entrance times, as well as the comedians that will perform on the day of the show.
 
 ### **Wireframes:**
 
@@ -95,7 +95,7 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 ### **Color Scheme:**
 
 When deciding the color scheme I wanted a dark and gritty main body with accents of orange representing the colour of the fox and white font text for a good contrast. The color palette was created using [https://coolors.co/]
-![Color Palette](https://github.com/razvantr10/the-giggly-fox/blob/main/images/screenshots/colorpalette.jpg)
+![Color Palette](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/colorpalette.jpg?raw=true)
 
 ## **Current Features Common to all pages**
 
