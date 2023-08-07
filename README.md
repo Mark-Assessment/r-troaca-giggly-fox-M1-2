@@ -1,8 +1,10 @@
 # **The Giggly Fox**
 ## **Site Overview**
+The Giggly Fox is Leicester's premier destination for laughter and a good time! Situated in the heart of the city, our venue is the go-to spot for an unforgettable evening of side-splitting comedy and good times.
 
+Established with a passion for spreading joy and merriment, The Giggly Fox has been a staple in Leicester's entertainment scene for over a decade. We take pride in curating an eclectic lineup of comedic talent, bringing together the finest stand-up comedians, improv artists, and sketch groups from near and far. Whether you're a local resident or a visitor to our vibrant city, our doors are wide open, ready to welcome you into a world of unbridled laughter.
 
-![Am I responsive screenshot]
+![Am I responsive screenshot] (assets/images/screenshots/amiresponsive.jpg)
 ## Table of contents:
 - [**The Giggly Fox**](#the-giggly-fox)
   - [**Site Overview**](#site-overview)
