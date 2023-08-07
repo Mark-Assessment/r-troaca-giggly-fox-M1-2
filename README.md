@@ -1,14 +1,18 @@
 # **The Giggly Fox**
+
 ## **Site Overview**
+
 The Giggly Fox is Leicester's premier destination for laughter and a good time! Situated in the heart of the city, our venue is the go-to spot for an unforgettable evening of side-splitting comedy and good times.
 
 Established with a passion for spreading joy and merriment, The Giggly Fox has been a staple in Leicester's entertainment scene for over a decade. We take pride in curating an eclectic lineup of comedic talent, bringing together the finest stand-up comedians, improv artists, and sketch groups from near and far. Whether you're a local resident or a visitor to our vibrant city, our doors are wide open, ready to welcome you into a world of unbridled laughter.
 
-![Am I responsive screenshot] (assets/images/screenshots/amiresponsive.jpg)
-## Table of contents:
+![Website responsiveness](../images/screenshots/amiresponsive.jpg)
+
+## Table of contents
+
 - [**The Giggly Fox**](#the-giggly-fox)
   - [**Site Overview**](#site-overview)
-  - [Table of contents:](#table-of-contents)
+  - [Table of contents](#table-of-contents)
   - [**Planning stage**](#planning-stage)
     - [**Target Audiences:**](#target-audiences)
     - [**User Stories:**](#user-stories)
@@ -41,12 +45,15 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
     - [**Media:**](#media)
 
 ## **Planning stage**
+
 ### **Target Audiences:**
+
 *Users looking to see a comedy show.
 *Users who want to see what comedians are performing at The Giggly Fox.
 *Users that want to get in contact with the comedy club and make a booking.
 
 ### **User Stories:**
+
 *As a user I want to see the subject matter of the page.
 *As a user I want to be able to easily navigate the page to find what I require in a quickly manner.
 *As a user I want to find the dates and times of show that I am interested in, without too much trouble.
@@ -54,6 +61,7 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 *As a user I want to be able to contact the club easily.
 
 ### **Site Aims:**
+
 *To inform the user what the website is about.
 *To insure the user that the website is fluid and can be navigated at ease every step of their experience.
 *To inform the user on the show dates and entrance times.
@@ -62,8 +70,9 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 *To provide the ability to subscribe to a newsletter that will inform the user on any shows added to our show list and their respective lineups.
 
 ### **How Will This Be Achieved:**
+
 *The landing page of the website provides the user a description of the comedy club and how it became one of the top comedy clubs in the country.
-*The site provides clear information on the club's 
+*The site provides clear information on the club's
    *Upcoming shows
    *Comedians
 *The site provides a method of contacting the club and offers as well as the address of the club and the phone number where the club can be contacted, in the Contact section of the website.
@@ -71,35 +80,32 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 
 ### **Wireframes:**
 
+- Mobile Wireframes:
+  - [Home page]
+  - [Shows page]
+  - [Comedians page]
+  - [Contact page]
 
-* Mobile Wireframes:
-    * [Home page]
-    * [Shows page]
-    * [Comedians page]
-    * [Contact page]
-
-* Desktop wireframes:
-    * [Home page]
-    * [Shows page]
-    * [Comedians page]
-    * [Contact page]
-
+- Desktop wireframes:
+  - [Home page]
+  - [Shows page]
+  - [Comedians page]
+  - [Contact page]
 
 ### **Color Scheme:**
+
 When deciding the color scheme I wanted a dark and gritty main body with accents of orange representing the colour of the fox and white font text for a good contrast. The color palette was created using [https://coolors.co/]
 ![Color Palette]
 
-
 ## **Current Features Common to all pages**
-###  **Header Element**
 
+### **Header Element**
 
 #### *Title:*
+
 ![Page title]
 
-
 #### *Logo:*
-
 
         ![Mobile header]
 
@@ -107,50 +113,46 @@ When deciding the color scheme I wanted a dark and gritty main body with accents
         ![Desktop header]
 
 #### *Navigation Bar:*
-* The navigation bar appears on all pages (including the form feedback page). 
+
+* The navigation bar appears on all pages (including the form feedback page).
 
 ![Navigation bar]
 ***
+
 ### **Hero Images**
 
-
 ## **Footer**
-
 
 ![Page footer]
 
 ## **Individual Page Content features**
+
 ### **Home Page Content:**
-
-
 
 ### **Shows Page Content:**
 
 ### **Comedians Page Content:**
 
-
 ### **Contact Page Content**
 
-
-
-
 ### **Contact Redirect Page Content**
-* I created this page to mimic the effect of actually submitting a form. 
+
+* I created this page to mimic the effect of actually submitting a form.
 
 ### **Thank You for Subscribing Page Content**
 
 ### **404 Error Page Content**
 
-
 ## **Future-Enhancements**
 
-
-
 ***
+
 ## **Testing Phase**
 
 ***
+
 ## **Deployment**
+
 I deployed the page on GitHub pages via the following procedure: -
 
 1. From the project's [repository](https://github.com/razvantr10/the-giggly-fox), go to the **Settings** tab.
@@ -160,15 +162,13 @@ I deployed the page on GitHub pages via the following procedure: -
 
 You  can find the live site via the following URL - [The Giggly Fox live webpage](https://razvantr10.github.io/the-giggly-fox/index.html)
 ***
+
 ## **Credits**
+
 ### **Honorable mentions**
-
-
 
 ### **General reference:**
 
-
 ### **Content:**
 
-  
 ### **Media:**
