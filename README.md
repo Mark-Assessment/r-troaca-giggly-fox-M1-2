@@ -86,6 +86,8 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 
 
 ### **Color Scheme:**
+When deciding the color scheme I wanted a dark and gritty main body with accents of orange representing the colour of the fox and white font text for a good contrast. The color palette was created using [https://coolors.co/]
+![Color Palette]
 
 
 ## **Current Features Common to all pages**
