@@ -6,7 +6,7 @@ The Giggly Fox is Leicester's premier destination for laughter and a good time! 
 
 Established with a passion for spreading joy and merriment, The Giggly Fox has been a staple in Leicester's entertainment scene for over a decade. We take pride in curating an eclectic lineup of comedic talent, bringing together the finest stand-up comedians, improv artists, and sketch groups from near and far. Whether you're a local resident or a visitor to our vibrant city, our doors are wide open, ready to welcome you into a world of unbridled laughter.
 
-![Website responsiveness](../images/screenshots/amiresponsive.jpg)
+![Website responsiveness](https://github.com/razvantr10/the-giggly-fox/blob/main/images/screenshots/amiresponsive.jpg)
 
 ## Table of contents
 
@@ -95,7 +95,7 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 ### **Color Scheme:**
 
 When deciding the color scheme I wanted a dark and gritty main body with accents of orange representing the colour of the fox and white font text for a good contrast. The color palette was created using [https://coolors.co/]
-![Color Palette]
+![Color Palette](https://github.com/razvantr10/the-giggly-fox/blob/main/images/screenshots/colorpalette.jpg)
 
 ## **Current Features Common to all pages**
 
