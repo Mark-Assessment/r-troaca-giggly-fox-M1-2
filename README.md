@@ -42,16 +42,32 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 
 ## **Planning stage**
 ### **Target Audiences:**
-
+*Users looking to see a comedy show.
+*Users who want to see what comedians are performing at The Giggly Fox.
+*Users that want to get in contact with the comedy club and make a booking.
 
 ### **User Stories:**
-
+*As a user I want to see the subject matter of the page.
+*As a user I want to be able to easily navigate the page to find what I require in a quickly manner.
+*As a user I want to find the dates and times of show that I am interested in, without too much trouble.
+*As a user I want to be able to find what comedians are performing at this venue.
+*As a user I want to be able to contact the club easily.
 
 ### **Site Aims:**
-
+*To inform the user what the website is about.
+*To insure the user that the website is fluid and can be navigated at ease every step of their experience.
+*To inform the user on the show dates and entrance times.
+*To inform the user on the comedians that perform at The Giggly Fox and provide extra details about them.
+*To provide a manner of contacting the venue.
+*To provide the ability to subscribe to a newsletter that will inform the user on any shows added to our show list and their respective lineups.
 
 ### **How Will This Be Achieved:**
-
+*The landing page of the website provides the user a description of the comedy club and how it became one of the top comedy clubs in the country.
+*The site provides clear information on the club's 
+   *Upcoming shows
+   *Comedians
+*The site provides a method of contacting the club and offers as well as the address of the club and the phone number where the club can be contacted, in the Contact section of the website.
+*The site provides the user a method of subscribing to a newsletter, that will be sent twice a month and inform the user with the new shows that have been added and their dates and entrance times, as well as the comedians that will perform on the day of the show.
 
 ### **Wireframes:**
 
