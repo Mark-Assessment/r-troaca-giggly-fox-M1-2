@@ -26,6 +26,7 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
       - [*Logo:*](#logo)
       - [*Navigation Bar:*](#navigation-bar)
     - [**Hero Images**](#hero-images)
+  - [**Newsletter subscribe button**](#newsletter-subscribe-button)
   - [**Footer**](#footer)
   - [**Individual Page Content features**](#individual-page-content-features)
     - [**Home Page Content:**](#home-page-content)
@@ -132,9 +133,18 @@ The logo was created using an AI tool from [https://canva.com]
 * The third image in the carousel represents the actual bar in the comedy club and it was taken by Chan Walrus from Pexels [https://www.pexels.com/photo/assorted-bottle-inside-bar-941864/]
 ![Third hero image](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/club3slide.webp?raw=true)
 
-## **Footer**
+## **Newsletter subscribe button**
+* The newsletter button appears on every page at the bottom, before the footer.
+* The subscribe button is inspired from [https://levelup.gitconnected.com/24-newsletter-signup-forms-for-website-15736e597b7d] and modified the code to adapt it for this website.
 
-![Page footer]
+![Newsletter subscribe button](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/newsletter-button.jpg?raw=true)
+
+## **Footer**
+* The footer is present across every page of the website, featuring social media icons that link directly to the corresponding social media websites. This will allow users to stay up to date with the comedy club's latest updates and events on various social media platforms.
+* The icons used for the social media buttons are imported by linking a CDN from [https://fontawesome.com]
+* Footer also includes copyright notice at the bottom.
+* The footer was inspired from [https://mdbootstrap.com/docs/standard/extended/social-media-icons-footer/#section-related-resources] and modified the code to adapt it to this website.
+![Page footer](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/footer.jpg?raw=true)
 
 ## **Individual Page Content features**
 
