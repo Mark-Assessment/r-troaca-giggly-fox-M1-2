@@ -108,6 +108,7 @@ The header element sticks to the top of the page as the user scrolls up and down
 * Serves as a navigation link to the home page as well.
 
 #### *Logo:*
+The logo was created using an AI tool from [https://canva.com]
 
 ![Logo](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/gigglyfoxlogo.webp?raw=true)
 
@@ -123,6 +124,13 @@ The header element sticks to the top of the page as the user scrolls up and down
 ***
 
 ### **Hero Images**
+
+* The first image in the carousel represents a comedy club scene and it was taken by Monica Silvestre from Pexels [https://www.pexels.com/photo/people-at-theater-713149/]
+![First hero image](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/club1slide.webp?raw=true)
+* The second hero image represents the atmosphere in a comedy club bar area and it was taken by Pixabay from Pexels [https://www.pexels.com/photo/adult-alcohol-bar-bartender-274192/]
+![Second hero image](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/club2slide.webp?raw=true)
+* The third image in the carousel represents the actual bar in the comedy club and it was taken by Chan Walrus from Pexels [https://www.pexels.com/photo/assorted-bottle-inside-bar-941864/]
+![Third hero image](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/club3slide.webp?raw=true)
 
 ## **Footer**
 
