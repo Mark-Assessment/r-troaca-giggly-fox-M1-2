@@ -137,7 +137,7 @@ The logo was created using an AI tool from [https://canva.com]
 * The newsletter form appears on every page at the bottom, before the footer.
 * The subscribe button is inspired from [https://levelup.gitconnected.com/24-newsletter-signup-forms-for-website-15736e597b7d] and modified the code to adapt it for this website.
 
-![Newsletter subscribe button](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/newsletter-button.jpg?raw=true)
+![Newsletter subscribe button](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/newsletter-button.jpg?raw=true)
 
 ## **Footer**
 * The footer is present across every page of the website, featuring social media icons that link directly to the corresponding social media websites. This will allow users to stay up to date with the comedy club's latest updates and events on various social media platforms.
