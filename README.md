@@ -26,7 +26,7 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
       - [*Logo:*](#logo)
       - [*Navigation Bar:*](#navigation-bar)
     - [**Hero Images**](#hero-images)
-  - [**Newsletter subscribe button**](#newsletter-subscribe-button)
+  - [**Newsletter subscribe form**](#newsletter-subscribe-form)
   - [**Footer**](#footer)
   - [**Individual Page Content features**](#individual-page-content-features)
     - [**Home Page Content:**](#home-page-content)
@@ -133,8 +133,8 @@ The logo was created using an AI tool from [https://canva.com]
 * The third image in the carousel represents the actual bar in the comedy club and it was taken by Chan Walrus from Pexels [https://www.pexels.com/photo/assorted-bottle-inside-bar-941864/]
 ![Third hero image](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/club3slide.webp?raw=true)
 
-## **Newsletter subscribe button**
-* The newsletter button appears on every page at the bottom, before the footer.
+## **Newsletter subscribe form**
+* The newsletter form appears on every page at the bottom, before the footer.
 * The subscribe button is inspired from [https://levelup.gitconnected.com/24-newsletter-signup-forms-for-website-15736e597b7d] and modified the code to adapt it for this website.
 
 ![Newsletter subscribe button](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/newsletter-button.jpg?raw=true)
