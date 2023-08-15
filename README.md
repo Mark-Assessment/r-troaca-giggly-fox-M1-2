@@ -199,6 +199,11 @@ The logo was created using an AI tool from [https://canva.com]
 ![Newsletter subscribe page message](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/thankyou.jpg?raw=true)
 
 ### **404 Error Page Content**
+* This page was created to mimic the effect of accessing a page or link that does not exist.
+* The page displays a funny message to inform the user that the page that they were looking for is unavailable.
+* Under the message displayed, there is a button that sends the user back to the Home page.
+
+![404 Erorr page message](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/404page.jpg?raw=true)
 
 ## **Future-Enhancements**
 
