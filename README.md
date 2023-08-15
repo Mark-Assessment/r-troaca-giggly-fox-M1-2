@@ -169,7 +169,11 @@ The logo was created using an AI tool from [https://canva.com]
 ![Shows section2](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/showspage2.jpg?raw=true)
 
 ### **Comedians Page Content:**
-
+* This page contains all the comedians that perform at The Giggly Fox and a short bio of them each. Every comedian has a image of them next to their name and bio.
+  
+![Comedians section1](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/comedianspage1.jpg?raw=true)
+![Comedians section2](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/comedianspage2.jpg?raw=true)
+![Comedians section3](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/comedianspage3.jpg?raw=true)
 ### **Contact Page Content**
 
 ### **Contact Redirect Page Content**
