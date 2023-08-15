@@ -150,16 +150,23 @@ The logo was created using an AI tool from [https://canva.com]
 
 ### **Home Page Content:**
 * This page contains an About Us section right after the hero image carousel, that gives a brief description about the comedy club, its history and what can you expect to find when you visit The Giggly Fox.
+  
 ![About us section](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/aboutus.jpg?raw=true)
 
 * The home page also contains an Upcoming Shows section, which shows the next 6 upcoming shows at the comedy club, including their date. Underneath these shows there is a button that redirects users to the Shows page, where they can see more information about these upcoming shows. On mobile phones, this section only shows the next 3 shows, as to decrease loading times and scrolling endlessly.
+  
 ![Upcoming shows section](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/upcomingshows.jpg?raw=true)
 
 * A third section that is individual to the home page, is the comedians sections, which shows 8 comedians that perform at the comedy club. Underneath these comedians images there is a button that redirects the user to the Comedians page, where they can see more information about these comedians. On mobile phone, the section only shows 4 comedians, as to load the page faster.
+  
 ![Comedians section](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/comedianshomepage.jpg?raw=true)
   
 
 ### **Shows Page Content:**
+* This page contains all the upcoming shows at the comedy club, including their dates, opening times and lineup of comedians. Additionaly, some shows have an age restriction and others have a minimum amount that people need to spend at the venue at that show.
+  
+![Shows section1](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/showspage1.jpg?raw=true)
+![Shows section2](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/showspage2.jpg?raw=true)
 
 ### **Comedians Page Content:**
 
