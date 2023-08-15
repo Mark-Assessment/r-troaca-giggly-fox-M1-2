@@ -192,6 +192,11 @@ The logo was created using an AI tool from [https://canva.com]
 ![Contact redirect page message](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/contactredirect.jpg?raw=true)
 
 ### **Thank You for Subscribing Page Content**
+* This page was created to mimic the effect of actually subscribing to the club's newsletter.
+* The page displays a funny message to thank the user for subscribing to the comedy club's newsletter.
+* Under the message displayed, there is a button that redirects the user to the Home page.
+
+![Newsletter subscribe page message](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/thankyou.jpg?raw=true)
 
 ### **404 Error Page Content**
 
