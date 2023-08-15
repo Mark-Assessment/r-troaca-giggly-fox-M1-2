@@ -42,11 +42,13 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
     - [**Testing During Development**](#testing-during-development)
       - [**Manual Testing**](#manual-testing)
       - [**User Story Testing**](#user-story-testing)
+      - [**Functionality testing**](#functionality-testing)
       - [**Bugs and fixes**](#bugs-and-fixes)
     - [**Testing After Development**](#testing-after-development)
       - [**Validators**](#validators)
       - [***HTML*** - https://validator.w3.org/nu/](#html---httpsvalidatorw3orgnu)
       - [***CSS*** - https://jigsaw.w3.org/css-validator/](#css---httpsjigsaww3orgcss-validator)
+      - [**Lighthouse Scores**](#lighthouse-scores)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
     - [**Honorable mentions**](#honorable-mentions)
@@ -277,6 +279,9 @@ During my manual testing, I have tested every user story, to ensure that the nee
    - Issue: the user could not contact the venue easily, without having to call the club.
    - Cause: there was an email address provided, but no contact form to make it easier for the user to contact The Giggly Fox.
    - Resolution: I added a contact form where the user can input their first and last name, email address, phone number and a text area where they can send all their questions and feedback to the club.
+
+#### **Functionality testing**
+* All the links, buttons and forms work as expected, with no errors.
   
 #### **Bugs and fixes**
 While manually testing I have encountered a couple of bugs:
@@ -306,6 +311,27 @@ While manually testing I have encountered a couple of bugs:
 
 * All pages tested, no issues found.
 ![CSS validator badge](https://jigsaw.w3.org/css-validator/images/vcss)
+
+#### **Lighthouse Scores**
+* All lighthouse tests have been made while in incognito mode to avoid any browser extensions interference. 
+* I have asked several people to run lighthouse tests from their own devices as well, and they were getting similar scores.
+
+* Index.html
+
+![Index.html lighthouse score](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/indexhtml.png?raw=true)
+
+* Shows.html
+
+![Shows.html lighthouse score](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/showshtml.png?raw=true)
+
+* Comedians.html
+
+![Comedians.html lighthouse score](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/comedianshtml.png?raw=true)
+
+* Contact.html
+
+![Contact.html lighthouse score](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/contacthtml.png?raw=true)
+
 
 ***
 
