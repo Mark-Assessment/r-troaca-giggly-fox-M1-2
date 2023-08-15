@@ -44,7 +44,6 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
     - [**Honorable mentions**](#honorable-mentions)
     - [**General reference:**](#general-reference)
     - [**Content:**](#content)
-    - [**Media:**](#media)
 
 ## **Planning stage**
 
@@ -57,9 +56,9 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 ### **User Stories:**
 
 * As a user I want to see the subject matter of the page.
-* As a user I want to be able to easily navigate the page to find what I require in a quickly manner.<br>
-* As a user I want to find the dates and times of show that I am interested in, without too much trouble.<br>
-* As a user I want to be able to find what comedians are performing at this venue.<br>
+* As a user I want to be able to easily navigate the page to find what I require in a quickly manner.
+* As a user I want to find the dates and times of show that I am interested in, without too much trouble.
+* As a user I want to be able to find what comedians are performing at this venue.
 * As a user I want to be able to contact the club easily.
 
 ### **Site Aims:**
@@ -98,6 +97,10 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 
 When deciding the color scheme I wanted a dark and gritty main body with accents of orange representing the colour of the fox and white font text for a good contrast. The color palette was created using [https://coolors.co/]
 ![Color Palette](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/colorpalette.jpg?raw=true)
+
+I also created this color contrast grid using [https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%231A1E21%2C%0D%0A%23212529%2C%0D%0A%23343439%2C%0D%0A%23FFFFFF%2C%0D%0A%23ff5500%0D%0A%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp], to check the contrast scored and ensure the text remains visible across the entire website and that the site is accessible to everyone.
+
+![Color Contrast Grid](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/colourgrid.jpg?raw=true)
 
 ## **Current Features Common to all pages**
 
@@ -237,9 +240,11 @@ You  can find the live site via the following URL - [The Giggly Fox live webpage
 ## **Credits**
 
 ### **Honorable mentions**
+* [Richard Wells](https://github.com/D0nni387) - Code Institute mentor who helped me throughout the project and offered lots of valuable information and feedback.
+* [Adrian Damoc](https://github.com/AdrianDamoc) - a friend first and a "shoulder to lean on" second, that sat with me and helped me sift through the code to find a few bugs that kept on pestering me.
+* The Code Institute slack community, for answers to my numerous questions.
 
 ### **General reference:**
-
+* I relied upon W3schools, Bootstrap docs, stack overflow and various Google search results for general references throughout the project.
 ### **Content:**
-
-### **Media:**
+- The text content was either created by me or generated using an AI tool[https://openai.com/chatgpt]
