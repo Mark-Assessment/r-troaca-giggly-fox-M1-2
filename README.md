@@ -213,6 +213,8 @@ The logo was created using an AI tool from [https://canva.com]
 ![404 Erorr page message](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/404page.jpg?raw=true)
 
 ## **Future-Enhancements**
+* Provided I would have had sufficient time, I would have added a few extra features to enhance the website's functionality. One of these would be a dedicated page to each comedian, allowing the comedian to share their latest videos and which shows are they doing down the road.
+* I would also like to add a search bar at the top of the website, so the user can find specific information that they are looking for. These enhancements would make the website more user-friendly and accesible.
 
 ***
 
