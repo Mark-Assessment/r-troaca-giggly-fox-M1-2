@@ -175,6 +175,14 @@ The logo was created using an AI tool from [https://canva.com]
 ![Comedians section2](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/comedianspage2.jpg?raw=true)
 ![Comedians section3](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/comedianspage3.jpg?raw=true)
 ### **Contact Page Content**
+* The user is offered several possibilities to contact the venue. By contact form, email or mobile phone.
+* The contact form has 5 required fields and a submit button:
+    * The first 2 fields require the user to input their First Name and Last Name.
+    * The 3rd and 4th field require the email address and phone number of the user.
+    * The 5th field has a required text area, in which the user can input their questions to the club, feedback or whatever they choose.
+* Furthermore, the page includes a map displaying the venue's location for easy navigation and interaction.
+  
+![Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/contactpage.jpg?raw=true)
 
 ### **Contact Redirect Page Content**
 
