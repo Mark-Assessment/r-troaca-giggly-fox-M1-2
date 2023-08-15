@@ -43,6 +43,10 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
       - [**Manual Testing**](#manual-testing)
       - [**User Story Testing**](#user-story-testing)
       - [**Bugs and fixes**](#bugs-and-fixes)
+    - [**Testing After Development**](#testing-after-development)
+      - [**Validators**](#validators)
+      - [***HTML*** - https://validator.w3.org/nu/](#html---httpsvalidatorw3orgnu)
+      - [***CSS*** - https://jigsaw.w3.org/css-validator/](#css---httpsjigsaww3orgcss-validator)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
     - [**Honorable mentions**](#honorable-mentions)
@@ -278,16 +282,30 @@ During my manual testing, I have tested every user story, to ensure that the nee
 While manually testing I have encountered a couple of bugs:
 
 * One of the first bugs that I have encountered was that I had a bit of overflow on the landing page, and the hero image and footer would not reach all the way to the right margin. To fix it, I added in style.css a min-height of 100% and a min-width of 100% plus a overflow-x: hidden;.
-![Overflow bug]()
+
+![Overflow bug](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/overflow.jpg?raw=true)
 
 * Another bug I have encountered was that the "View all upcoming shows" and "View all comedians" buttons had a blue font after they were clicked. To fix this I had to change the button to a div that had a class of a button with a local link to the Shows page and Comedians page.
-![Blue font button bug]()
+
+![Blue font button bug](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/buttonalwaysblue.png?raw=true)
 
 * Other bugs that I have identified were:
   - Removing any unused CSS code.
   - Removing stray tags.
   - Ensuring proper spacing between elements inside the form.
   - Adding description meta tags to all pages for better search engine optimization and user understanding.
+
+### **Testing After Development**
+#### **Validators**
+
+#### ***HTML*** - https://validator.w3.org/nu/
+
+* All pages return no error.
+
+#### ***CSS*** - https://jigsaw.w3.org/css-validator/
+
+* All pages tested, no issues found.
+![CSS validator badge](https://jigsaw.w3.org/css-validator/images/vcss)
 
 ***
 
