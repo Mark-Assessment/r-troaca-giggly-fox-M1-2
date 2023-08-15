@@ -27,6 +27,7 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
       - [*Navigation Bar:*](#navigation-bar)
     - [**Hero Images**](#hero-images)
   - [**Newsletter subscribe form**](#newsletter-subscribe-form)
+  - [**Back to top button**](#back-to-top-button)
   - [**Footer**](#footer)
   - [**Individual Page Content features**](#individual-page-content-features)
     - [**Home Page Content:**](#home-page-content)
@@ -138,6 +139,12 @@ The logo was created using an AI tool from [https://canva.com]
 * The subscribe button is inspired from [https://levelup.gitconnected.com/24-newsletter-signup-forms-for-website-15736e597b7d] and modified the code to adapt it for this website.
 
 ![Newsletter subscribe button](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/newsletter-button.jpg?raw=true)
+
+## **Back to top button**
+* The back to top button appears on the 4 main pages: Home, Shows, Comedians and Contact.
+* The back to top button is inspired from [https://www.youtube.com/watch?v=Vef9bxTilCU] and the code was modified to adapt it to The Giggly Fox's website.
+
+![Back to top button](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/topbutton.jpg?raw=true)
 
 ## **Footer**
 * The footer is present across every page of the website, featuring social media icons that link directly to the corresponding social media websites. This will allow users to stay up to date with the comedy club's latest updates and events on various social media platforms.
