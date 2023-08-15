@@ -92,16 +92,16 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 ### **Wireframes:**
 
 - Mobile Wireframes:
-  - [Home page]
-  - [Shows page]
-  - [Comedians page]
-  - [Contact page]
+  - [Home page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirehomemobile.jpg?raw=true)
+  - [Shows page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wireshowsmobile.jpg?raw=true)
+  - [Comedians page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecomediansmobile.jpg?raw=true)
+  - [Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecontactmobile.jpg?raw=true)
 
 - Desktop wireframes:
-  - [Home page]
-  - [Shows page]
-  - [Comedians page]
-  - [Contact page]
+  - [Home page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirehomedesktop.jpg?raw=true)
+  - [Shows page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wireshowsdesktop.jpg?raw=true)
+  - [Comedians page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecomediansdesktop.jpg?raw=true)
+  - [Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecontactdesktop.jpg?raw=true)
 
 ### **Color Scheme:**
 
@@ -333,7 +333,7 @@ While manually testing I have encountered a couple of bugs:
 ![Contact.html lighthouse score](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/contacthtml.png?raw=true)
 
 - All pages have performance scores slightly under optimum because of the following reasons:
-   * Render blocking resources such as Javascript CDNs, but since I haven't learned Javascript yet I cannot no inline Javascript.
+   * Render blocking resources such as Javascript CDNs, but since I haven't learned Javascript yet I cannot insert inline Javascript.
    * Size of the image, but I have reduced the file-size as much as possible to keep the quality of the images and I have changed the file type to modern image file types such as "webp".
 
 ![Lighthouse performance issues](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/performance.jpg?raw=true)
