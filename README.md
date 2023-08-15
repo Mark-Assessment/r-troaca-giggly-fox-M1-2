@@ -313,8 +313,8 @@ While manually testing I have encountered a couple of bugs:
 ![CSS validator badge](https://jigsaw.w3.org/css-validator/images/vcss)
 
 #### **Lighthouse Scores**
-* All lighthouse tests have been made while in incognito mode to avoid any browser extensions interference. 
-* I have asked several people to run lighthouse tests from their own devices as well, and they were getting similar scores.
+- All lighthouse tests have been made while in incognito mode to avoid any browser extensions interference. 
+- I have asked several people to run lighthouse tests from their own devices as well, and they were getting similar scores.
 
 * Index.html
 
@@ -332,7 +332,11 @@ While manually testing I have encountered a couple of bugs:
 
 ![Contact.html lighthouse score](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/contacthtml.png?raw=true)
 
+- All pages have performance scores slightly under optimum because of the following reasons:
+   * Render blocking resources such as Javascript CDNs, but since I haven't learned Javascript yet I cannot no inline Javascript.
+   * Size of the image, but I have reduced the file-size as much as possible to keep the quality of the images and I have changed the file type to modern image file types such as "webp".
 
+![Lighthouse performance issues](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/performance.jpg?raw=true)
 ***
 
 ## **Deployment**
