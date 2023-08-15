@@ -42,6 +42,7 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
     - [**Testing During Development**](#testing-during-development)
       - [**Manual Testing**](#manual-testing)
       - [**User Story Testing**](#user-story-testing)
+      - [**Bugs and fixes**](#bugs-and-fixes)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
     - [**Honorable mentions**](#honorable-mentions)
@@ -268,11 +269,25 @@ During my manual testing, I have tested every user story, to ensure that the nee
   - Cause: there was a section of Comedians on the landing page, but there wasn't any button to take you to the Comedians page instantly, without having to scroll all the way up to the top.
   - Resolution: I added a "View all comedians" button that takes the user instantly to the Comedians page.
   
-*  As a user I want to be able to contact the club easily.
-  - Issue: the user could not contact the venue easily, without having to call the club.
-  - Cause: there was an email address provided, but no contact form to make it easier for the user to contact The Giggly Fox.
-  - Resolution: I added a contact form where the user can input their first and last name, email address, phone number and a text area where they can send all their questions and feedback to the club.
+* As a user I want to be able to contact the club easily.
+   - Issue: the user could not contact the venue easily, without having to call the club.
+   - Cause: there was an email address provided, but no contact form to make it easier for the user to contact The Giggly Fox.
+   - Resolution: I added a contact form where the user can input their first and last name, email address, phone number and a text area where they can send all their questions and feedback to the club.
   
+#### **Bugs and fixes**
+While manually testing I have encountered a couple of bugs:
+
+* One of the first bugs that I have encountered was that I had a bit of overflow on the landing page, and the hero image and footer would not reach all the way to the right margin. To fix it, I added in style.css a min-height of 100% and a min-width of 100% plus a overflow-x: hidden;.
+![Overflow bug]()
+
+* Another bug I have encountered was that the "View all upcoming shows" and "View all comedians" buttons had a blue font after they were clicked. To fix this I had to change the button to a div that had a class of a button with a local link to the Shows page and Comedians page.
+![Blue font button bug]()
+
+* Other bugs that I have identified were:
+  - Removing any unused CSS code.
+  - Removing stray tags.
+  - Ensuring proper spacing between elements inside the form.
+  - Adding description meta tags to all pages for better search engine optimization and user understanding.
 
 ***
 
