@@ -185,8 +185,11 @@ The logo was created using an AI tool from [https://canva.com]
 ![Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/contactpage.jpg?raw=true)
 
 ### **Contact Redirect Page Content**
-
 * I created this page to mimic the effect of actually submitting a form.
+* The page displays a humorous message to thank the user for contacting the comedy club.
+* Underneath the message, there is a button that takes the user back to the Home page.
+
+![Contact redirect page message](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/contactredirect.jpg?raw=true)
 
 ### **Thank You for Subscribing Page Content**
 
