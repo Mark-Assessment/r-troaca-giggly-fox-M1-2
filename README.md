@@ -39,6 +39,9 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
     - [**404 Error Page Content**](#404-error-page-content)
   - [**Future-Enhancements**](#future-enhancements)
   - [**Testing Phase**](#testing-phase)
+    - [**Testing During Development**](#testing-during-development)
+      - [**Manual Testing**](#manual-testing)
+      - [**User Story Testing**](#user-story-testing)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
     - [**Honorable mentions**](#honorable-mentions)
@@ -98,7 +101,7 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 When deciding the color scheme I wanted a dark and gritty main body with accents of orange representing the colour of the fox and white font text for a good contrast. The color palette was created using [https://coolors.co/]
 ![Color Palette](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/colorpalette.jpg?raw=true)
 
-I also created this color contrast grid using [https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%231A1E21%2C%0D%0A%23212529%2C%0D%0A%23343439%2C%0D%0A%23FFFFFF%2C%0D%0A%23ff5500%0D%0A%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp], to check the contrast scored and ensure the text remains visible across the entire website and that the site is accessible to everyone.
+I also created this color contrast grid using [https://contrast-grid.eightshapes.com/](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%231A1E21%2C%0D%0A%23212529%2C%0D%0A%23343439%2C%0D%0A%23FFFFFF%2C%0D%0A%23ff5500%0D%0A%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp), to check the contrast scored and ensure the text remains visible across the entire website and that the site is accessible to everyone.
 
 ![Color Contrast Grid](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/colourgrid.jpg?raw=true)
 
@@ -222,6 +225,54 @@ The logo was created using an AI tool from [https://canva.com]
 ***
 
 ## **Testing Phase**
+
+### **Testing During Development**
+During the development process, I have been constantly testing the website in the following ways:
+
+1. Manually testing each element of the page for responsiveness and accesibility via a live server opened using CodeAnywhere.
+
+2. Published the page via GitHub pages and shared with friends and family to receive feedback.
+
+3. Made use of Developer Tools from different Internet browsers, to continuously identify and troubleshoot any problems I encountered.
+   
+#### **Manual Testing**
+* While testing the website, I have used 4 different browsers to make sure that it is cross-compatible. The desktop browsers I have used for the tesing were:
+
+  - Firefox
+  - Google Chrome
+  - Microsoft Edge
+  - DuckDuckGo
+ 
+* I have also asked other people to test the website, using their personal iPhones and Macbooks using Safari, since I don't have access to these devices. To which they reported that they have not encountered any bugs.
+
+#### **User Story Testing**
+During my manual testing, I have tested every user story, to ensure that the needs of the users are met.
+
+* As a user I want to see the subject matter of the page.
+  - Issue: the About Us section didn't stand out, as to allow the user to notice it straight away.
+  - Cause: the background of the About Us section was slightly darker than the body background.
+  - Resolution: I added a 4px solid orange border, which captures the attention of the user and they can see the subject of the website in an instant.
+
+* As a user I want to be able to easily navigate the page to find what I require in a quickly manner.
+  - Issue: the user had to scroll for a long time up and down to find which section they were interested in.
+  - Cause: the navbar was not fixed and there was no back to top button either.
+  - Resolution: I added a back to top button to all 4 main pages, and I made the navbar fixed as well, so that the user can easily navigate the website.
+
+* As a user I want to find the dates and times of show that I am interested in, without too much trouble.
+  - Issue: the user could not find quickly all the times of the shows, from the landing page.
+  - Cause: there was a list of shows on the Home page, but no button to take you to the Shows page instantly, without having to scroll all the way up to the top.
+  - Resolution: I added a "View all shows" button that redirects the user straight to the Shows page.
+
+* As a user I want to be able to find what comedians are performing at this venue.
+  - Issue: the user could not find quickly all the comedians performing at the comedy club, from the Home page.
+  - Cause: there was a section of Comedians on the landing page, but there wasn't any button to take you to the Comedians page instantly, without having to scroll all the way up to the top.
+  - Resolution: I added a "View all comedians" button that takes the user instantly to the Comedians page.
+  
+*  As a user I want to be able to contact the club easily.
+  - Issue: the user could not contact the venue easily, without having to call the club.
+  - Cause: there was an email address provided, but no contact form to make it easier for the user to contact The Giggly Fox.
+  - Resolution: I added a contact form where the user can input their first and last name, email address, phone number and a text area where they can send all their questions and feedback to the club.
+  
 
 ***
 
