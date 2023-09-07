@@ -106,16 +106,16 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 ![Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecontactmobile.jpg?raw=true)
 
 - Desktop wireframes:
-  - [Home page]
+  - Home page
 
 ![Home page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirehomedesktop.jpg?raw=true)
-  - [Shows page]
+  - Shows page
   
 ![Shows page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wireshowsdesktop.jpg?raw=true)
-  - [Comedians page]
+  - Comedians page
   
 ![Comedians page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecomediansdesktop.jpg?raw=true)
-  - [Contact page]
+  - Contact page
   
 ![Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecontactdesktop.jpg?raw=true)
 
