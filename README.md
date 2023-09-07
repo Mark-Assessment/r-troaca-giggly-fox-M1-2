@@ -92,16 +92,32 @@ Established with a passion for spreading joy and merriment, The Giggly Fox has b
 ### **Wireframes:**
 
 - Mobile Wireframes:
-  - [Home page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirehomemobile.jpg?raw=true)
-  - [Shows page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wireshowsmobile.jpg?raw=true)
-  - [Comedians page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecomediansmobile.jpg?raw=true)
-  - [Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecontactmobile.jpg?raw=true)
+  - Home page
+
+![Home page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirehomemobile.jpg?raw=true)
+  - Shows page
+  
+![Shows page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wireshowsmobile.jpg?raw=true)
+  - Comedians page
+  
+![Comedians page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecomediansmobile.jpg?raw=true)
+  - Contact page
+  
+![Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecontactmobile.jpg?raw=true)
 
 - Desktop wireframes:
-  - [Home page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirehomedesktop.jpg?raw=true)
-  - [Shows page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wireshowsdesktop.jpg?raw=true)
-  - [Comedians page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecomediansdesktop.jpg?raw=true)
-  - [Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecontactdesktop.jpg?raw=true)
+  - [Home page]
+
+![Home page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirehomedesktop.jpg?raw=true)
+  - [Shows page]
+  
+![Shows page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wireshowsdesktop.jpg?raw=true)
+  - [Comedians page]
+  
+![Comedians page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecomediansdesktop.jpg?raw=true)
+  - [Contact page]
+  
+![Contact page](https://github.com/RazvanTr10/the-giggly-fox/blob/main/assets/images/screenshots/wirecontactdesktop.jpg?raw=true)
 
 ### **Color Scheme:**
 
